@@ -15,10 +15,6 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
-		},
-		{
-			"Name": "WorldDirectorPRO",
-			"Enabled": true
 		}
 	]
 }
